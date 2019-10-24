@@ -1,0 +1,24 @@
+{
+  "libros": [
+    {
+      "id": 2,
+      "nombre": "React y Redux Hooks",
+      "precio": "40"
+    },
+    {
+      "id": 3,
+      "nombre": "Aprendiendo Angular v7",
+      "precio": "80"
+    },
+    {
+      "id": 5,
+      "nombre": "Node y React",
+      "precio": "50"
+    },
+    {
+      "id": 8,
+      "nombre": "Node and React Hooks",
+      "precio": "21"
+    }
+  ]
+}
